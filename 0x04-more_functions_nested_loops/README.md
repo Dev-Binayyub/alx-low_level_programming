@@ -1,0 +1,1 @@
+-This function will  checks for uppercase character and Returns 1 if c is uppercase Returns 0 otherwise
