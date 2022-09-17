@@ -1,2 +1,2 @@
--e "#!/bin/bash\ngcc"
-"-E $CFILE -o c"
+ #!/bin/bash\ngcc
+-E $CFILE -o c
